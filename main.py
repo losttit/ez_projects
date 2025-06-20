@@ -4,13 +4,13 @@ import sys
 
 
 APPS = {
-    "1": {"file": "1num_guesser.py", "name": "Угадай число"},
-    "2": {"file": "2magic_ball.py", "name": "Магический шар"},
-    "3": {"file": "3pass_gen.py", "name": "Генератор паролей"},
-    "4": {"file": "4sh_cesar.py", "name": "Шифр Цезаря"},
-    "5": {"file": "5num_sys_calc.py", "name": "Калькулятор систем счисления"},
-    "6": {"file": "6word_guesser.py", "name": "Угадай слово"},
-    "7": {"file": "7tictac.py", "name": "Крестики-нолики"}
+    "1": {"file": "num_guesser.py", "name": "Угадай число"},
+    "2": {"file": "magic_ball.py", "name": "Магический шар"},
+    "3": {"file": "pass_gen.py", "name": "Генератор паролей"},
+    "4": {"file": "sh_cesar.py", "name": "Шифр Цезаря"},
+    "5": {"file": "num_sys_calc.py", "name": "Калькулятор систем счисления"},
+    "6": {"file": "word_guesser.py", "name": "Угадай слово"},
+    "7": {"file": "tictac.py", "name": "Крестики-нолики"}
 }
 
 def show_menu():
